@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{fontFamily:"system-ui",padding:32}}><h1>Jev Bridge</h1><p>MCP endpoint: <code>/api/mcp</code></p><p>TypeSafe credentials are stored server-side only.</p></main>}
