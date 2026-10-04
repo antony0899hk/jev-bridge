@@ -1,1 +1,17 @@
-{"name":"jev-bridge","version":"0.1.0","private":true,"type":"module","scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"mcp-handler":"latest","next":"latest","zod":"latest"}}
+{
+  "name": "jev-bridge",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.0.0",
+    "mcp-handler": "^2.0.0",
+    "next": "latest",
+    "zod": "^4.2.0"
+  }
+}
